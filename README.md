@@ -1,6 +1,9 @@
 # Wine-Quality-Prediction
 A machine learning model to predict the quality of red or white wine whether it is bad, good or best.
 
+# Datasets
+The two datasets are related to red and white variants of the Portuguese "Vinho Verde" wine. For more details, consult: http://www.vinhoverde.pt/en/ or the reference [Cortez et al., 2009].  Due to privacy and logistic issues, only physicochemical (inputs) and sensory (the output) variables are available (e.g. there is no data about grape types, wine brand, wine selling price, etc.).
+
 ## Inputs 
 The input features for the model are: 
 
