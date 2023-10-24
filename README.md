@@ -4,14 +4,12 @@ A machine learning model to predict the quality of red or white wine whether it 
 ## Inputs 
 The input features for the model are: 
 
-`python
-fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, total sulfur dioxide, density, pH, sulphates, alcohol
+`
+type, fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, total sulfur dioxide, density, pH, sulphates, alcohol
 `
 
 
-## Output Variable
-Quality: 
-
+## Quality - Target Variable
 `
 0: Bad, 1: Good, 2: Best
 `
