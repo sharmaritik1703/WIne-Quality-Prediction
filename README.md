@@ -11,9 +11,8 @@ The two datasets are related to red and white variants of the Portuguese "Vinho 
 ## Inputs 
 The input features for the model are: 
 
-`
-type, fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, total sulfur dioxide, density, pH, sulphates, alcohol
-`
+`type`, `fixed acidity`, `volatile acidity`, `citric acid`, `residual sugar`, `chlorides`, 
+`total sulfur dioxide`, `density`, `pH`, `sulphates`, `alcohol`
 
 
 ## Quality - Target Variable
